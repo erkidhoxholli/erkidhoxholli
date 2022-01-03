@@ -6,5 +6,3 @@
 - 🧠 Technologies:  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 - :house: Home:  <img height="20" src="https://www.cia.gov/library/publications/the-world-factbook/attachments/flags/AL-flag.gif" /> living in <img height="20" src="https://www.cia.gov/library/publications/the-world-factbook/attachments/flags/PL-flag.gif" />
 - :pushpin: Interests: Travelling, sports, foodie, autonomous vehicles.
-
-⭐️ From [erkid.co](https://erkid.co)
